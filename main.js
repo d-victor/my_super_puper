@@ -7,5 +7,5 @@ if (name === "Petya"){
 }
 
 function go() {
-    return 0;
+    return 2;
 }
