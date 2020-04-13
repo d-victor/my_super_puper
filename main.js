@@ -9,3 +9,6 @@ if (name === "Petya"){
 function go() {
     return 0;
 }
+function f(a) {
+    return a*a;
+}
